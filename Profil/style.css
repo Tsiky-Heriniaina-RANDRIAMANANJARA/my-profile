@@ -1,0 +1,48 @@
+/*Colors and Fonts*/
+
+.Container{
+	width:750px;
+	margin:auto;
+	padding: 100px;
+	text-align: center;
+	background-color:#A6A4BE;
+}	
+.btn-blue{
+	color:white;
+}	
+body {
+	background: rgb(240, 240,#240);
+	color: diez071e3d; 
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+h1,h2 {
+	font-family: 'Ubuntu' sans-serif;
+}
+
+h1 {
+	color: white;
+	font-size: 50PX;
+	text-align: center;
+}
+
+h2 {
+   font-size: 35PX;
+   color: diez 278ea5;
+}   
+
+a {
+	text-decoration: none;
+	transition: color 0,3s ease;
+	font-weight: bolder;
+	color: diez 21e6c1;
+}
+
+a:hover {
+	color: diezce2e6c ;
+	text-decoration:none;
+	font-weight:bolder;
+}	 
+
+/*Custom design and class*/
